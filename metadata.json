@@ -1,0 +1,8 @@
+{
+  "name": "Innovator's Court - Privacy-First AI Training & Consent Platform",
+  "description": "Interactive prototype of the zero-exposure AI training pipeline featuring smart data splitting, PII sanitization, encrypted training, micro-rewards, and future revenue models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
